@@ -1,0 +1,28 @@
+D:\Projetos Visual Studio\LOTOFACIL\NumAleatorios\NumerosAleatorios\NumerosAleatorios\obj\Debug\Vetores_operações.csprojAssemblyReference.cache
+D:\Projetos Visual Studio\LOTOFACIL\NumAleatorios\NumerosAleatorios\NumerosAleatorios\obj\Debug\NumerosAleatorios.Properties.Resources.resources
+D:\Projetos Visual Studio\LOTOFACIL\NumAleatorios\NumerosAleatorios\NumerosAleatorios\obj\Debug\Vetores_operações.csproj.GenerateResource.cache
+D:\Projetos Visual Studio\LOTOFACIL\NumAleatorios\NumerosAleatorios\NumerosAleatorios\obj\Debug\NumerosAleatorios.exe
+D:\Projetos Visual Studio\LOTOFACIL\NumAleatorios\NumerosAleatorios\NumerosAleatorios\obj\Debug\NumerosAleatorios.pdb
+D:\Projetos Visual Studio\LOTOFACIL\NumAleatorios\NumerosAleatorios\NumerosAleatorios\bin\Debug\NumerosAleatorios.exe.config
+D:\Projetos Visual Studio\LOTOFACIL\NumAleatorios\NumerosAleatorios\NumerosAleatorios\bin\Debug\NumerosAleatorios.exe
+D:\Projetos Visual Studio\LOTOFACIL\NumAleatorios\NumerosAleatorios\NumerosAleatorios\bin\Debug\NumerosAleatorios.pdb
+D:\Projetos Visual Studio\LOTOFACIL\NumAleatorios\NumerosAleatorios\NumerosAleatorios\obj\Debug\NumerosAleatorios.Form1.resources
+D:\Projetos Visual Studio\FEITOS POR MIM\Vetores - operações\Vetores_operações\NumerosAleatorios\bin\Debug\NumerosAleatorios.exe.config
+D:\Projetos Visual Studio\FEITOS POR MIM\Vetores - operações\Vetores_operações\NumerosAleatorios\bin\Debug\NumerosAleatorios.exe
+D:\Projetos Visual Studio\FEITOS POR MIM\Vetores - operações\Vetores_operações\NumerosAleatorios\bin\Debug\NumerosAleatorios.pdb
+D:\Projetos Visual Studio\FEITOS POR MIM\Vetores - operações\Vetores_operações\NumerosAleatorios\obj\Debug\Vetores.Form1.resources
+D:\Projetos Visual Studio\FEITOS POR MIM\Vetores - operações\Vetores_operações\NumerosAleatorios\obj\Debug\NumerosAleatorios.Properties.Resources.resources
+D:\Projetos Visual Studio\FEITOS POR MIM\Vetores - operações\Vetores_operações\NumerosAleatorios\obj\Debug\Vetores_operações.csproj.GenerateResource.cache
+D:\Projetos Visual Studio\FEITOS POR MIM\Vetores - operações\Vetores_operações\NumerosAleatorios\obj\Debug\NumerosAleatorios.exe
+D:\Projetos Visual Studio\FEITOS POR MIM\Vetores - operações\Vetores_operações\NumerosAleatorios\obj\Debug\NumerosAleatorios.pdb
+D:\Projetos Visual Studio\FEITOS POR MIM\Vetores - operações\Vetores_operações\NumerosAleatorios\obj\Debug\Vetores_operações.csprojAssemblyReference.cache
+D:\Projetos Visual Studio\FEITOS POR MIM\Vetores_operações\Vetores_operações\obj\Debug\Vetores.Form1.resources
+D:\Projetos Visual Studio\FEITOS POR MIM\Vetores_operações\Vetores_operações\obj\Debug\Vetores_operações.csproj.GenerateResource.cache
+D:\Projetos Visual Studio\FEITOS POR MIM\Vetores_operações\Vetores_operações\bin\Debug\VetoresOperações.exe.config
+D:\Projetos Visual Studio\FEITOS POR MIM\Vetores_operações\Vetores_operações\bin\Debug\VetoresOperações.exe
+D:\Projetos Visual Studio\FEITOS POR MIM\Vetores_operações\Vetores_operações\bin\Debug\VetoresOperações.pdb
+D:\Projetos Visual Studio\FEITOS POR MIM\Vetores_operações\Vetores_operações\obj\Debug\VetoresOperações.Properties.Resources.resources
+D:\Projetos Visual Studio\FEITOS POR MIM\Vetores_operações\Vetores_operações\obj\Debug\VetoresOperações.exe
+D:\Projetos Visual Studio\FEITOS POR MIM\Vetores_operações\Vetores_operações\obj\Debug\VetoresOperações.pdb
+D:\Projetos Visual Studio\FEITOS POR MIM\Vetores_operações\Vetores_operações\obj\Debug\Vetores_operações.csprojAssemblyReference.cache
+D:\Projetos Visual Studio\FEITOS POR MIM\Vetores_operações\Vetores_operações\obj\Debug\Vetores_operações.csproj.CoreCompileInputs.cache
